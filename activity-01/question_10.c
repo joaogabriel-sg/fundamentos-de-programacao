@@ -1,3 +1,5 @@
+// 10. Faça um programa em C que leia três números reais e calcule a média aritmética destes números. Ao final, o programa deve imprimir o resultado do cálculo.
+
 #include <stdio.h>
 
 int main()

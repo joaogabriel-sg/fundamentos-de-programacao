@@ -1,3 +1,5 @@
+// 15. Faça um programa em C que leia o valor de um produto, o percentual do desconto desejado e imprima o valor do desconto e o valor do produto subtraindo o desconto.
+
 #include <stdio.h>
 
 int main()

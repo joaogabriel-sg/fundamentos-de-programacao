@@ -1,3 +1,5 @@
+// 20. Faça um programa em C que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). Para isso, será necessário também ler o valor da cotação do dólar.
+
 #include <stdio.h>
 
 int main()

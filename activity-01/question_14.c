@@ -1,3 +1,5 @@
+// 14. Faça um programa em C que leia a base e a altura de um retângulo e imprima o perímetro (base + altura) e a área (base * altura).
+
 #include <stdio.h>
 
 int main()
