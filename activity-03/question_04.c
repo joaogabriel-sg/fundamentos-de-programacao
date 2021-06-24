@@ -19,7 +19,7 @@ int main()
 
   printf("==*== SOMA CONDICIONAL ==*==\n");
 
-  while (count <= 25)
+  while (count <= 200)
   {
     if (count % 3 == 0 && count % 7 != 0)
       sum += count;
